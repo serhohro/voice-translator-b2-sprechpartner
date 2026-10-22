@@ -16,6 +16,11 @@ A unique Android application designed for quick voice translation, as well as fo
 *   **Bridge:** HTML/CSS/JS for the UI, integrated via `@JavascriptInterface` to access the device's microphone and TTS engine.
 
 ## ⚙️ How to Run
+
+**Option 1: Use the ready-to-install APK (For regular users)**
+If you just want to use the app and don't want to build it yourself, you can download the ready-to-install APK file directly from the [Releases](https://github.com/serhohro/voice-translator-b2-sprechpartner/releases) section. Just download the `.apk` file, transfer it to your Android phone, and install it (allow installation from unknown sources if prompted).
+
+**Option 2: Build from source (For developers)**
 1. Clone this repository.
 2. Open the project in Android Studio.
 3. **Note:** The project includes both Gradle wrapper scripts (`gradlew` for macOS/Linux and `gradlew.bat` for Windows). Android Studio will automatically use the correct one for your operating system.
@@ -43,6 +48,11 @@ Eine einzigartige Android-Anwendung für schnelle Sprachübersetzung sowie für 
 *   **🔑 Eigener API-Schlüssel:** Die App läuft mit Ihren eigenen kostenlosen Gemini- und Groq-API-Schlüsseln. Keine Abonnements erforderlich.
 
 ## ⚙️ Wie man es startet
+
+**Option 1: Fertige APK verwenden (Für normale Nutzer)**
+Wenn Sie die App nur nutzen und nicht selbst erstellen möchten, können Sie die fertige APK-Datei direkt im Bereich [Releases](https://github.com/serhohro/voice-translator-b2-sprechpartner/releases) herunterladen. Laden Sie einfach die `.apk`-Datei herunter, übertragen Sie sie auf Ihr Android-Smartphone und installieren Sie sie (erlauben Sie bei Aufforderung die Installation aus unbekannten Quellen).
+
+**Option 2: Aus dem Quellcode erstellen (Für Entwickler)**
 1. Klonen Sie dieses Repository.
 2. Öffnen Sie das Projekt in Android Studio.
 3. **Hinweis:** Das Projekt enthält sowohl Gradle-Wrapper-Skripte (`gradlew` für macOS/Linux als auch `gradlew.bat` für Windows). Android Studio verwendet automatisch die richtige Version für Ihr Betriebssystem.
@@ -76,6 +86,11 @@ Dieses Projekt ist unter der **Apache License 2.0** lizenziert. Weitere Informat
 *   **Місток:** HTML/CSS/JS для інтерфейсу, інтегрований через `@JavascriptInterface` для доступу до мікрофона пристрою та двигуна TTS.
 
 ## ⚙️ Як запустити
+
+**Варіант 1: Використати готовий APK (Для звичайних користувачів)**
+Якщо ви просто хочете користуватися додатком і не бажаєте збирати його самостійно, ви можете завантажити готовий APK-файл прямо з розділу [Releases](https://github.com/serhohro/voice-translator-b2-sprechpartner/releases). Просто завантажте файл `.apk`, перенесіть його на свій Android-телефон і встановіть (дозвольте встановлення з невідомих джерел, якщо з'явиться запит).
+
+**Варіант 2: Збірка з вихідного коду (Для розробників)**
 1. Клонуйте цей репозиторій.
 2. Відкрийте проєкт в Android Studio.
 3. **Примітка:** Проєкт містить обидва скрипти Gradle (`gradlew` для macOS/Linux та `gradlew.bat` для Windows). Android Studio автоматично використає правильний варіант для вашої операційної системи.
